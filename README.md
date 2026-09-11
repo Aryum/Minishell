@@ -1,9 +1,5 @@
 # Minishell
 
-A simple shell implementation in C - a little Bash. This project explores processes, file descriptors, and how a command-line interpreter works under the hood.
-
-## About
-
 Minishell recreates the core experience of an interactive shell like `bash`. It parses and executes commands, handles quoting and environment variable expansion, supports redirections and pipes, implements a set of built-in commands, and reacts to signals the way a real shell does.
 
 ## Features
