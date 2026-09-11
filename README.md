@@ -1,7 +1,5 @@
 # Minishell
 
-> As beautiful as a shell
-
 A simple shell implementation in C — your very own little Bash. This project explores processes, file descriptors, and how a command-line interpreter works under the hood.
 
 ## About
