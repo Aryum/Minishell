@@ -31,5 +31,4 @@ Minishell recreates the core experience of an interactive shell like `bash`. It 
   - `env`
   - `exit`
 
-
-
+*This project was done as part of the 42 curriculum.*
